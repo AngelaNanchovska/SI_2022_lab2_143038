@@ -3,15 +3,16 @@
 
 <h2>Control Flow Graph</h2>
 
-![11](https://user-images.githubusercontent.com/53618093/171922498-33ef6e60-98ef-4f6c-9bc4-92c9768a8c17.JPG)
-![22](https://user-images.githubusercontent.com/53618093/171922511-609fc846-02cc-4704-b2f7-11e59333faf4.JPG)
+![A](https://user-images.githubusercontent.com/53618093/171934979-5ef54161-c473-4853-8770-5160e0a20534.JPG)
+
+![B](https://user-images.githubusercontent.com/53618093/171934994-71744562-ba1b-473b-9467-f0efd2805018.JPG)
 
 
 <h2>Цикломатска комплексност</h2>
 
 Цикломатската комплексност може да ја пресметаме со формулата: E-N+2
 
-N - број на темиња = 17 </br>
-E - број на ребра = 21 </br>
-21-17+2 = 6 </br>
-Цикломатската комплексност ќе биде 6.
+N - број на темиња = 20 </br>
+E - број на ребра = 27 </br>
+27-20+2 = 9 </br>
+Цикломатската комплексност ќе биде 9.
